@@ -84,6 +84,11 @@ with `B` denoting the [beta function][beta-function].
 ## Usage
 
 ```javascript
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-variance@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-kumaraswamy-variance/tags). For example,
+
+```javascript
 import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-variance@v0.1.0-esm/index.mjs';
 ```
 
@@ -159,7 +164,7 @@ y = variance( 0.5, 0.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-variance@v0.1.0-esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-variance@esm/index.mjs';
 
 var a;
 var b;
