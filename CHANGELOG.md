@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`9d9f653`](https://github.com/stdlib-js/stdlib/commit/9d9f653d3c57620043aa6b0d1e6103ea3b7a5e28) - **chore:** clean-up _(by Athan Reines)_
 -   [`5271c7a`](https://github.com/stdlib-js/stdlib/commit/5271c7a1ad270bb7c4031bcdf270b9caee547be6) - **style:** use tabs instead of spaces _(by Philipp Burckhardt)_
 -   [`7e02d8e`](https://github.com/stdlib-js/stdlib/commit/7e02d8e80050edcbeaf849942ef9664a36c0ead5) - **bench:** fix function name _(by Philipp Burckhardt)_
 -   [`9adef4a`](https://github.com/stdlib-js/stdlib/commit/9adef4a1dc4ebabbca789f69bf1c2516018ee453) - **feat:** add C implementation for `stats/base/dists/kumaraswamy/variance` [(#4495)](https://github.com/stdlib-js/stdlib/pull/4495) _(by Shabareesh Shetty, Philipp Burckhardt, stdlib-bot)_
@@ -48,8 +49,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Shabareesh Shetty
 
