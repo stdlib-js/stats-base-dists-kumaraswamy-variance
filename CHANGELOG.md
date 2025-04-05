@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-04-05)
+
+<section class="features">
+
+### Features
+
+-   [`9adef4a`](https://github.com/stdlib-js/stdlib/commit/9adef4a1dc4ebabbca789f69bf1c2516018ee453) - add C implementation for `stats/base/dists/kumaraswamy/variance` [(#4495)](https://github.com/stdlib-js/stdlib/pull/4495)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3707](https://github.com/stdlib-js/stdlib/issues/3707)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`9adef4a`](https://github.com/stdlib-js/stdlib/commit/9adef4a1dc4ebabbca789f69bf1c2516018ee453) - **feat:** add C implementation for `stats/base/dists/kumaraswamy/variance` [(#4495)](https://github.com/stdlib-js/stdlib/pull/4495) _(by Shabareesh Shetty, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Shabareesh Shetty
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
