@@ -84,7 +84,7 @@ with `B` denoting the [beta function][beta-function].
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-variance@v0.3.0-esm/index.mjs';
 ```
 
 #### variance( a, b )
@@ -160,7 +160,7 @@ y = variance( 0.5, 0.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-variance@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
