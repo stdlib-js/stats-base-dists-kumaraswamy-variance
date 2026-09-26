@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-26)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`1582ec5`](https://github.com/stdlib-js/stdlib/commit/1582ec5ac2e9a45a13c3d69e16ba9ad0d58dbdd3) - **test:** migrate `stats/base/dists/kumaraswamy/variance` to ULP-based assertions [(#15546)](https://github.com/stdlib-js/stdlib/pull/15546) _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
